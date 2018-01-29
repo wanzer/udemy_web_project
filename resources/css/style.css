@@ -141,3 +141,24 @@ section{
     color: #e67e22;
     margin-bottom: 10px;
 }
+.meals-section{
+    
+    
+}
+.meals-showcase{
+    width: 100%;
+    list-style: none;
+}
+.meals-showcase li{
+    width: 25%;
+    float: left;
+    display: block;
+}
+.meal-photo{
+    width: 100%;
+    margin: 0;
+}
+.meal-photo img{
+    height: auto;
+    width: 100%;
+}
